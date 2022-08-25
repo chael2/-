@@ -1,0 +1,26 @@
+java에서 가장 기본적인 명령이 출력문이다.
+
+아래와 같은 소스 코드를 작성하고 "컴파일-실행"을 수행시키면,
+지정한 "문장"이 출력된다.
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("문장");
+    }
+}
+
+
+예시)
+System.out.println()를 이용해 다음 단어를 출력하시오.
+
+Hello World
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+
+>>Hello World
+
+
