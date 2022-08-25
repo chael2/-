@@ -1,0 +1,25 @@
+1) 다음 코드의 [] 빈칸을 채우시오.
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.[   ]("Hello World");
+    }
+}
+
+
+2) 다음 코드의 [] 빈칸을 채우시오.
+
+[   ] class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+
+
+3) 다음 코드의 [] 빈칸을 채우시오.
+
+public class HelloWorld {
+    public [   ] [  ] main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
