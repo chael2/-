@@ -1,0 +1,25 @@
+정수형(int)으로 변수를 선언하고, 변수에 정수값을 저장한 후
+변수에 저장되어 있는 값을 그대로 출력해보자.
+
+예시
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int i = sc.nextInt();
+        System.out.println(i);
+    }
+}
+
+
+참고
+Scanner scan = new Scanner(System.in); // Scanner 사용 선언
+
+int num = scan.nextInt();  // int형 입력 (정수)
+double num = scan.nextDouble();  // double형 입력
+float num = scan.nextFloat();  // float형 입력  (실수)
+
+String str = scan.next();  // 문자열 입력  (공백 기준)
+String str = scan.nextLin();  // 문자열 입력  (입력 줄 전체)
+char chr = scan.next().charAt(0);  // 문자 입력
