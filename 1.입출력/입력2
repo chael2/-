@@ -1,0 +1,36 @@
+1) 다음 코드를 실행시 출력될 단어는?
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Java");
+    }
+}
+
+
+2) 다음 코드를 실행시 출력될 값은?
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("2023.11.16");
+    }
+}
+
+
+3) 다음 코드를 실행시 출력될 값은?
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("paikyang");
+        System.out.println("high");
+        System.out.println("school");
+    }
+}
+
+
+4) 다음 코드를 실행시 출력될 값은?
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hype\nBoy");
+    }
+}
