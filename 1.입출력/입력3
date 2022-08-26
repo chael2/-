@@ -1,0 +1,46 @@
+1) 다음 코드의 [] 빈칸을 채우시오.
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        [  ] w = scan.next();
+        System.out.println(w);
+    }
+}
+
+입력 : 금요일
+출력 : 금요일
+
+
+2) 다음 코드의 [] 빈칸을 채우시오.
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args){
+        [  ] [ ] = new Scanner(System.in);
+        int i = sc.nextInt();
+        System.out.println(i);
+    }
+}
+
+입력 : 333
+출력 : 333
+
+
+3) 다음 코드의 [] 빈칸을 채우시오.
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        float i = scan.[ ]();
+        System.out.println(i);
+    }
+}
+
+입력 : 2.718281
+출력 : 2.718281
