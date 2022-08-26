@@ -1,0 +1,45 @@
+1) 다음 코드를 실행시 출력될 값은?
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int i = sc.nextInt();
+        System.out.println(i);
+    }
+}
+
+입력 : 5
+출력 :
+
+
+2) 다음 코드를 실행시 출력될 값은?
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        float i = scan.nextFloat(); 
+        System.out.println(i);
+    }
+}
+
+입력 : 3.14
+출력 :
+
+3) 다음 코드를 실행시 출력될 값은?
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        String str = scan.next(); 
+        System.out.println(i);
+    }
+}
+
+입력 : word
+출력 : 
